@@ -1,0 +1,31 @@
+
+
+.btnContainer{
+    color: white;
+    width: 240px;
+    height: 80px;
+    margin: 20px auto;
+    padding: 10px;
+
+}
+.btnWrapper{
+   width: 90%;
+   margin: 20px auto;
+   height: 50%;
+   display: flex;
+   justify-content: center;
+}
+.btnWrapper button{
+    width: 150px;
+    height: 100%;
+    border-radius: 50px;
+    box-shadow: 3px 3px 0px 1px rgba(111, 173, 236,0.4),-3px -3px 0px 1px rgba(255,0.8,128,0.4);
+    transition: box-shadow 0.5s ease; 
+}
+.btnWrapper button:hover{
+    box-shadow: 3px 3px 0px 1px rgba(111, 173, 236,0.9),-3px -3px 0px 1px rgba(255,0.8,128,0.9);
+}
+
+
+
+

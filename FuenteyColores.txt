@@ -1,0 +1,8 @@
+    titulo : font-family: 'Abyssinica SIL', serif;
+    texto : font-family: 'Bitter', serif;
+
+    colores:
+
+    box-shadow: 8px 13px 0px 4px rgba(111, 173, 236,0.1),-8px -13px 0px 4px rgba(255,0.8,128,0.1);
+
+    dark theme : #070d1f;
