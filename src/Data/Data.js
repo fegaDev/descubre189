@@ -91,7 +91,7 @@ export const Data = [
    },
    {
     id: 18,
-     frase: "Nunca dejes que nadie te diga que no puedes hacer algo, ni siquiera yo. Si tienes un sueño, tienes que protegerlo. Las personas que no son capaces de hacer algo te dirán que tú tampoco puedes. Si quieres algo, ve a por ello",
+     frase: "Nunca dejes que nadie te diga que no puedes hacer algo, ni siquiera yo. Si tienes un sueño, tienes que protegerlo. Las personas que no son capaces de hacer algo te dirán que tú tampoco puedes. Si quieres algo, ve por ello",
      autor: "Will Smith",
    },
    {
@@ -121,13 +121,69 @@ export const Data = [
    },
    {
     id: 24,
-    frase: "",
-    autor: ""
+    frase: "Aprende a dejar ir. Esa es la clave de la felicidad",
+    autor: "Buda"
    },
    {
     id: 25,
-    frase: "",
-    autor: ""
+    frase: "El dolor es inevitable... el sufrimiento es opcional",
+    autor: "Buda"
+   },
+   {
+    id: 26,
+    frase: "Uno está enamorado cuando se da cuenta de que otra persona es única",
+    autor: "Jorge Luis Borges"
+   },
+   {
+    id: 27,
+    frase: "Cada dolor te hace más fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio",
+    autor: "Anónimo"
+   },
+   {
+    id: 28,
+    frase: "Deja de mirar hacia atras. Ya sabes donde has estado, lo importante ahora es mirar hacia donde tienes que ir",
+    autor: "Anónimo"
+   },
+   {
+    id: 29,
+    frase: "Que me gustas, es verdad. Te quiero, no lo niego... Pero, ¿rogarte? A ese nivel no llego",
+    autor: "Anónimo"
+   },
+   {
+    id: 30,
+    frase : "La más pequeña de las acciones es siempre mejor que la más noble de las intenciones",
+    autor : "Robin Sharma",
+   },
+   {
+    id: 31,
+    frase : "Saber qué hacer y no hacerlo es lo mismo que no saber qué hacer",
+    autor : "Robin Sharma",
+   },
+   {
+    id: 32,
+    frase : "Nunca dejes para mañana lo que realmente puedes hacer hoy. La procrastinación es la ladrona del tiempo",
+    autor : "Charles Dickens",
+   },
+   {
+    id: 33,
+    frase : "Conseguir lo que quieres es tan difícil como no conseguir lo que quieres. Porque entonces tienes que averiguar qué hacer con ello, en lugar de averiguar qué hacer sin ello",
+    autor : "David Levithan",
+   },
+   {
+    id: 34,
+    frase : "¡Qué maravilloso es que nadie necesite esperar ni un solo momento antes de comenzar a mejorar el mundo!",
+    autor : "Ana Frank",
+   },
+   {
+    id: 35,
+    frase : "Ama a quienes amas mientras los tienes. Eso es todo lo que puedes hacer. Déjalos ir cuando debes. Si sabes cómo amar, nunca escaparas",
+    autor : "Ann Brashares",
+   },
+   {
+    id: 36,
+    frase : "Cuando sientas deseos de criticar a alguien, recuerda que no todo el mundo ha tenido las mismas oportunidades que tú tuviste",
+    autor : "F. Scott Fitzgerald",
    },
    
 ];
+
