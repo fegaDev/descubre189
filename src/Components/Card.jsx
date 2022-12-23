@@ -1,6 +1,6 @@
 import React,{useContext} from "react";
 import "./card.css";
-import { handleInfo} from "../Contexto/Contexto";
+import {handleInfo} from "../Contexto/Contexto";
 
 const Card = () => {
 
@@ -9,7 +9,7 @@ const Card = () => {
   return (
     <div className="cardContainer">
       <div className="card front">
-        <h4>Touch Me!</h4>
+        <h4>Descubre</h4>
       </div>
       <div className="card back">
         <p>
