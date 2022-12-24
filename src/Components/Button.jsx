@@ -9,7 +9,7 @@ const Button = () => {
   return (
     <div className='btnContainer'>
         <div className="btnWrapper">
-            <button onClick={cambiar}>Click Me!</button>
+            <button onClick={cambiar}>Aprietame!</button>
         </div>
     </div>
   )
