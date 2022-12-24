@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/descubre189/static/css/main.25457341.css",
-    "main.js": "/descubre189/static/js/main.a9ffda70.js",
+    "main.js": "/descubre189/static/js/main.541e6e67.js",
     "static/media/soleado.png": "/descubre189/static/media/soleado.236b17b1299d521e6146.png",
     "index.html": "/descubre189/index.html",
     "main.25457341.css.map": "/descubre189/static/css/main.25457341.css.map",
-    "main.a9ffda70.js.map": "/descubre189/static/js/main.a9ffda70.js.map"
+    "main.541e6e67.js.map": "/descubre189/static/js/main.541e6e67.js.map"
   },
   "entrypoints": [
     "static/css/main.25457341.css",
-    "static/js/main.a9ffda70.js"
+    "static/js/main.541e6e67.js"
   ]
 }
