@@ -1,5 +1,9 @@
 .App{
     position: relative;
+    cursor: url(./Components/Resources/cursor.png),auto;
+}
+.App:hover{
+    cursor: url(./Components/Resources/cursorHover.png),auto;
 }
 .fondoContainer{
     width: 35px;
@@ -21,6 +25,11 @@
     border: mone;
     margin: 0 10px;
     transition: transform 0.5s ease;
+    cursor: url(./Components/Resources/cursor.png),auto;
+}
+.fondoWrapper .btn1:hover{
+    cursor: url(./Components/Resources/cursorHover.png),auto;
+
 }
 .fondoWrapper .btn2{
     box-shadow: 0px 0px 0px 3px #c1aac065;
@@ -29,6 +38,10 @@
     border: mone;
     margin: 0 10px;
     transition: transform 0.5s ease;
+    cursor: url(./Components/Resources/cursor.png),auto;
+}
+.fondoWrapper .btn2:hover{
+    cursor: url(./Components/Resources/cursorHover.png),auto;
 }
 .fondoWrapper :active{
     transform: scale(0.8);

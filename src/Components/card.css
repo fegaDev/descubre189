@@ -19,6 +19,9 @@
      transition: 0.5s cubic-bezier(0.4,0.2,0.2,1);
      backface-visibility: hidden;
 }
+.card:hover{
+    cursor: url(./Resources/cursorHover.png),auto;
+}
 .front{
     font-size: 40px;
     transform: rotateY(0deg);

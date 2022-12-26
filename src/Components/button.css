@@ -23,9 +23,11 @@
 }
 .btnWrapper button:hover{
     box-shadow: 3px 3px 0px 1px rgba(111, 173, 236,0.9),-3px -3px 0px 1px rgba(255,0.8,128,0.9);
+    cursor: url(./Resources/cursorHover.png),auto;
 }
 .btnWrapper button:active{
     transform: scale(0.7);
+    cursor: url(./Resources/cursorHover.png),auto;
 }
 
 
