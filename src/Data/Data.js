@@ -863,6 +863,22 @@ export const Data = [
     id:189,
     frase:"Nunca pierdas el tiempo lamentando errores. Basta con que no los olvides.",
     autor:"William Faulkner"
+  },{
+    id:190,
+    frase:"Cuando tropiezas con el amor, es fácil levantarse. Pero cuando uno se enamora, es imposible estar en pie de nuevo.",
+    autor:"Albert Einstein"
+  },{
+    id: 191,
+    frase: "Nos hemos vuelto muy buenos en explotar nuestras propias debilidades",
+    autor: "James Clear"
+  },{
+    id: 192,
+    frase: "Los hombres se casan con mujeres con la esperanza de que nunca van a cambiar. Las mujeres se casan hombres con la esperanza de que ellos van a cambiar. Invariablemente ambos terminan decepcionados.",
+    autor: "Albert Einstein"
+  },{
+    id: 193,
+    frase:"Así que espero que este dolor se quede conmigo porque es todo el amor que no llegué a expresarle.",
+    autor: "Andrew Garfield"
   }
 ];
 
