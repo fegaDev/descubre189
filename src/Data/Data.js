@@ -849,7 +849,7 @@ export const Data = [
     autor:"José Ortega y Gasset"
   },{
   id:186,
-  frase:"Toda la propaganda de guerra, todos los gritos y mentiras y odio, provienen invariablemente de gente que no está luchando.",
+  frase:"Toda la propaganda de guerra, todos los gritos, mentiras y odio, provienen invariablemente de gente que no está luchando.",
   autor:"George Orwell"
   },{
     id: 187,
